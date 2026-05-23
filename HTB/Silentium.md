@@ -311,7 +311,7 @@ Now `http://localhost:3001` in my browser opened the Gogs web interface.
 
 ### Exploiting CVE-2025-8110
 
-The exploit chain works in two stages, automated end-to-end by the Python script from developer **TYehan**:
+The exploit chain works in two stages, automated end-to-end by the Python script from developer **[TYehan](https://github.com/TYehan/CVE-2025-8110-Gogs-RCE-Exploit)**:
 
 1. **Create a repo via the API** and clone it locally
 2. **Add a symbolic link** called `malicious_link` pointing to `.git/config`, then push it to Gogs
