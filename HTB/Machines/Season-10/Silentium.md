@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **OS:** Linux  
-**Author:** Ghaith Awni
+**Author:** Ghaith Al-bayati
 
 ---
 
@@ -363,4 +363,4 @@ root@silentium:~# cat root.txt
 
 ---
 
-*Write-up by Ghaith Awni — completed May 2026*
+*Write-up by Ghaith Al-bayati — completed May 2026*
