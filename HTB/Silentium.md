@@ -348,7 +348,7 @@ root
 
 ```bash
 root@silentium:~# cat root.txt
-777c639fb4bc9dcf75ab48c807548afb
+777c639fb4bc*******************
 ```
 
 **Root flag captured. Box owned.**
