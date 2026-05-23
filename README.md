@@ -4,14 +4,6 @@
 
 ---
 
-## 👤 About Me
-
-I'm **Ghaith** AKA **atrix187**, a cybersecurity student focused on offensive security, web application exploitation, and CTF competitions. This repository is where I document my journey — every box I crack and every flag I capture.
-
-- 🔗 GitHub: [@ghaith-awni](https://github.com/ghaith-awni)
-
----
-
 ## 📁 Repository Structure
 
 ```
