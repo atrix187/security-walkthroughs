@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **OS:** Linux    
-**Author:** Ghaith  
+**Author:** Ghaith Al-bayati 
 
 ---
 
@@ -309,4 +309,4 @@ Because the Node.js process was owned by `root`, the Linux kernel never checked 
 
 ---
 
-*Write-up by Ghaith — Hack The Box: Reactor*
+*Write-up by Ghaith Al-bayati — Hack The Box: Reactor*
