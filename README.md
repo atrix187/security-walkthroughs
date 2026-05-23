@@ -25,4 +25,3 @@ All write-ups in this repository are for **educational purposes only**. Every ma
 
 ---
 
-*Updated regularly as I work through new challenges.*
