@@ -8,7 +8,7 @@
 
 ## Overview
 
-CCTV is a medium-rated Linux machine built around a real-world surveillance stack. The path goes:
+CCTV is a easy-rated Linux machine built around a real-world surveillance stack. The path goes:
 default credentials → blind SQL injection → hash cracking → SSH → internal service discovery → command injection → root.
 
 ---
